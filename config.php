@@ -1,5 +1,5 @@
 <?
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'asiman5566.github.io');
 define('DB_USER', 'shiftmr_t54gvbg2');
 define('DB_PASSWORD', 'rlXmZNE1');
 define('DB_NAME', 'shiftmr_t54gvbg2');
